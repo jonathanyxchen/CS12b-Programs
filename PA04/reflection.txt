@@ -1,0 +1,4 @@
+If I have more time to work on the project, I would make the program available to 
+type in new information and statistics and then present it out. This makes things 
+easier than making a modified test program called TestLyftDriver since you only have
+to put the information in without other java languages. 
